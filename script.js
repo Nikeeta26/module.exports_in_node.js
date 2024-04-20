@@ -1,11 +1,3 @@
-import { Add, Division} from "./math.js";
-import { generate} from "random-words";
-console.log(generate());
-
-
-console.log(generate(5));
-console.log(Add(1,4));
-console.log(Division(3,5));
 
 let n =5;
 
